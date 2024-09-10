@@ -5,7 +5,7 @@ function ProductImage() {
 
   return (
     <div className="product-image">
-      <img src="/src/assets/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum" />
+      
     </div>
   );
 };
