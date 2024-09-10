@@ -27,11 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-
 #### Desktop
+![image](https://github.com/user-attachments/assets/0982887c-b8cb-4e18-a7ae-2881f92ad4ae)
 
 
 #### Mobile
+![image](https://github.com/user-attachments/assets/1ca333d7-0888-4ec2-bad4-3d152a3c377d)
 
 
 
@@ -94,9 +95,9 @@ In future projects, I want to focus more on:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-
+- Github - [GabrielMaQui](https://github.com/GabrielMaQui)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to thank the instructors at Make It Real for their guidance and support throughout this project.
+
